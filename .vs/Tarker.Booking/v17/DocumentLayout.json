@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aHenao\\Apis\\Tarker.Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.application\\validetors\\user\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\validetors\\user\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.application\\validetors\\user\\getuserbyusernamepasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\validetors\\user\\getuserbyusernamepasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.application\\feactures\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\feactures\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.application\\database\\user\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73ED446D-CBA3-42EC-A901-41BAF45CF686}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\database\\user\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|c:\\ahenao\\apis\\tarker.booking\\src\\tarker.booking.api\\tarker.booking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A536E528-0D4F-4881-BFE0-EA46DF7B4194}|src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj|solutionrelative:src\\tarker.booking.api\\tarker.booking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Validetors\\User\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Validetors\\User\\CreateUserValidator.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Validetors\\User\\CreateUserValidator.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Validetors\\User\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:34:44.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserByUserNamePasswordValidator.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Validetors\\User\\GetUserByUserNamePasswordValidator.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Validetors\\User\\GetUserByUserNamePasswordValidator.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Validetors\\User\\GetUserByUserNamePasswordValidator.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Validetors\\User\\GetUserByUserNamePasswordValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:34:41.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseApiService.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Feactures\\ResponseApiService.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Feactures\\ResponseApiService.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\Feactures\\ResponseApiService.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Feactures\\ResponseApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:32:06.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\DataBase\\User\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\DataBase\\User\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Application\\DataBase\\User\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\DataBase\\User\\Commands\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:24:53.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:16:15.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Api\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:57:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Tarker.Booking.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T23:56:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tarker.Booking.Api",
+              "DocumentMoniker": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+              "ToolTip": "C:\\aHenao\\Apis\\Tarker.Booking\\src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+              "RelativeToolTip": "src\\Tarker.Booking.Api\\Tarker.Booking.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T23:56:19.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

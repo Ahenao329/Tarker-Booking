@@ -1,0 +1,17 @@
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Persistence.deps.json
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Persistence.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Persistence.pdb
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.AssemblyInfoInputs.cache
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.AssemblyInfo.cs
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.CoreCompileInputs.cache
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\refint\Tarker.Booking.Persistence.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.pdb
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\ref\Tarker.Booking.Persistence.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.AssemblyReference.cache
+C:\aHenao\Apis\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.B.A9D12A1F.Up2Date
